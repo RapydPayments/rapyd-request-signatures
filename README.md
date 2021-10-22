@@ -12,3 +12,9 @@ When you send a request, you calculate the signature and insert the result into 
 
 ## Demo Video (YouTube)
 <a href="https://youtu.be/IUqDc4Siq70"><img src="https://files.readme.io/9e2d724-isaac-request-signatures.png" alt="thumbnail of video link for youtube video showing rapyd request signatures video" style="width:500px"></a>
+
+## Resources
+* Make your first API Call with Rapyd Payments documentation:
+https://docs.rapyd.net/build-with-rapyd/docs/make-your-first-api-call
+* Join the Rapyd Community:
+https://community.rapyd.net 
