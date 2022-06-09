@@ -43,9 +43,9 @@ app.get('/payment', async (req, res) => {
     try {
         const body = {
             amount: 230,
-            currency: 'EUR',
+            currency: 'MXN',
             payment_method: {
-                type: 'it_psc_cash'
+                type: 'mx_diestel_cash'
             }
         };
         const result = await makeRequest('POST', '/v1/payments', body);
